@@ -1,6 +1,6 @@
 # Exploring A Diffusion Model in Pytorch
-## Problem Set 2 - Task 5
-## COSC 4368 - Spring 2024
+## Problem Set 2
+## COSC 4368 - Fall 2025
 ### Raunak Sarbajna
 
 In this notebook we build a very simple Diffusion Model for generating car images using the Stanford Car dataset. 
